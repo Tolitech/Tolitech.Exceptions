@@ -1,1 +1,14 @@
-<Solution />
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path="Directory.Build.props" />
+    <File Path="README.md" />
+    <File Path="README.pt.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Application.Exceptions/Tolitech.Application.Exceptions.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Application.Exceptions/Tolitech.Application.Exceptions.UnitTests.csproj" />
+  </Folder>
+</Solution>
