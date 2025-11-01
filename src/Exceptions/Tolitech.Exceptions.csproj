@@ -6,14 +6,14 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>$(AssemblyName)</Title>
-    <Version>1.0.0-preview.3</Version>
+    <Version>1.0.0-preview.1</Version>
     <Authors>Tolitech</Authors>
     <Description>Provides standardized exception classes for database constraint violations, designed for use in application layers within clean architecture projects.</Description>
     <Copyright>Copyright (c) 2025 Tolitech</Copyright>
     <PackageProjectUrl>https://www.tolitech.com.br</PackageProjectUrl>
     <PackageIcon>tolitech-icon.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <RepositoryUrl>https://github.com/Tolitech/Tolitech.Application.Exceptions</RepositoryUrl>
+    <RepositoryUrl>https://github.com/Tolitech/Tolitech.Exceptions</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>application</PackageTags>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>

@@ -1,4 +1,4 @@
-﻿namespace Tolitech.Application.Exceptions.Database;
+﻿namespace Tolitech.Exceptions.Database;
 
 /// <summary>
 /// Exception thrown when a NOT NULL constraint violation occurs.

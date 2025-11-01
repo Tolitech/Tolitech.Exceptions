@@ -1,8 +1,8 @@
-﻿# Tolitech.Application.Exceptions
+﻿# Tolitech.Exceptions
 
 ## Overview
 
-Tolitech.Application.Exceptions is a modern .NET library designed to provide a robust set of custom exception types for handling database constraint violations and other application-specific errors. By leveraging clear, purpose-driven exception classes, this library enables developers to write more maintainable, expressive, and reliable error handling code in .NET applications.
+Tolitech.Exceptions is a modern .NET library designed to provide a robust set of custom exception types for handling database constraint violations and other application-specific errors. By leveraging clear, purpose-driven exception classes, this library enables developers to write more maintainable, expressive, and reliable error handling code in .NET applications.
 
 ## Features
 
@@ -55,4 +55,4 @@ Unit tests are provided to verify the correct behavior of all exception types, i
 
 ## Summary
 
-Tolitech.Application.Exceptions empowers .NET developers to implement clear, maintainable, and reliable error handling strategies for database operations and beyond. Its extensible and well-tested design makes it a valuable addition to any modern .NET application.
+Tolitech.Exceptions empowers .NET developers to implement clear, maintainable, and reliable error handling strategies for database operations and beyond. Its extensible and well-tested design makes it a valuable addition to any modern .NET application.

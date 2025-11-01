@@ -1,8 +1,8 @@
-﻿# Tolitech.Application.Exceptions
+﻿# Tolitech.Exceptions
 
 ## Visão Geral
 
-Tolitech.Application.Exceptions é uma biblioteca moderna para .NET, projetada para fornecer um conjunto robusto de tipos de exceções personalizadas para tratamento de violações de restrições de banco de dados e outros erros específicos da aplicação. Utilizando classes de exceção claras e orientadas ao propósito, esta biblioteca permite que desenvolvedores escrevam código de tratamento de erros mais expressivo, confiável e fácil de manter em aplicações .NET.
+Tolitech.Exceptions é uma biblioteca moderna para .NET, projetada para fornecer um conjunto robusto de tipos de exceções personalizadas para tratamento de violações de restrições de banco de dados e outros erros específicos da aplicação. Utilizando classes de exceção claras e orientadas ao propósito, esta biblioteca permite que desenvolvedores escrevam código de tratamento de erros mais expressivo, confiável e fácil de manter em aplicações .NET.
 
 ## Funcionalidades
 
@@ -55,4 +55,4 @@ Testes unitários garantem o comportamento correto de todos os tipos de exceçã
 
 ## Resumo
 
-Tolitech.Application.Exceptions capacita desenvolvedores .NET a implementar estratégias de tratamento de erros claras, organizadas e confiáveis para operações de banco de dados e além. Seu design extensível e testado faz dela uma adição valiosa para qualquer aplicação moderna em .NET.
+Tolitech.Exceptions capacita desenvolvedores .NET a implementar estratégias de tratamento de erros claras, organizadas e confiáveis para operações de banco de dados e além. Seu design extensível e testado faz dela uma adição valiosa para qualquer aplicação moderna em .NET.
