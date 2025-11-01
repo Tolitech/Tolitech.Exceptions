@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Application.Exceptions\Tolitech.Application.Exceptions.csproj" />
+    <ProjectReference Include="..\..\src\Exceptions\Tolitech.Exceptions.csproj" />
   </ItemGroup>
 
   <ItemGroup>

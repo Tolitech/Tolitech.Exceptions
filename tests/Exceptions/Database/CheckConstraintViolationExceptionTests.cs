@@ -1,6 +1,6 @@
-﻿using Tolitech.Application.Exceptions.Database;
+﻿using Tolitech.Exceptions.Database;
 
-namespace Tolitech.Application.Exceptions.UnitTests.Database;
+namespace Tolitech.Exceptions.UnitTests.Database;
 
 /// <summary>
 /// Provides unit tests for the <see cref="CheckConstraintViolationException"/> class.

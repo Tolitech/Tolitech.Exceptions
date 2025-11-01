@@ -1,6 +1,6 @@
-﻿using Tolitech.Application.Exceptions.Database;
+﻿using Tolitech.Exceptions.Database;
 
-namespace Tolitech.Application.Exceptions.UnitTests.Database;
+namespace Tolitech.Exceptions.UnitTests.Database;
 
 /// <summary>
 /// Contains unit tests for the <see cref="NotNullConstraintViolationException"/> class, verifying its constructors and
