@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>$(AssemblyName)</Title>
-    <Version>1.0.0-preview.1</Version>
+    <Version>1.0.0</Version>
     <Authors>Tolitech</Authors>
     <Description>Provides standardized exception classes for database constraint violations, designed for use in application layers within clean architecture projects.</Description>
     <Copyright>Copyright (c) 2025 Tolitech</Copyright>
